@@ -1,4 +1,4 @@
-# HollyShit 💩
+# ζ Holly 💩 Shit ζ 
 
 Esse é um projeto aleatório que fiz para aumentar minha skill em PHP e MySQL.
 
